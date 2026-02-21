@@ -5,4 +5,4 @@ Click [here](https://github.com/Ayabdall/Ayabdall.github.io/releases/download/Be
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ay-abdall/)
 
-Contact me by emailing contact@ayaball.ca or call/text 587-566-1938 
+Contact me by emailing <contact@ayaball.ca> or call/text 587-566-1938 
