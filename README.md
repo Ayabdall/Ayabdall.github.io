@@ -1,7 +1,7 @@
 # Website is still under construction, but here are some cool links in the meantime!
 
 
-Click **[here]()** to download my resume.
+Click **[here](https://github.com/Ayabdall/Ayabdall.github.io/releases/download/Docs/outdoor_program_leader_resume.pdf)** to download my resume.
 
 Click **[here]()** to view the job description.
 
